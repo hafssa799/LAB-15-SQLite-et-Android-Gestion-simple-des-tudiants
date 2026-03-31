@@ -1,4 +1,4 @@
-# LAB-15-SQLite-et-Android-Gestion-simple-des-tudiants
+# LAB-15 - SQLite-et-Android-Gestion-simple-des-tudiants
 
 Cette application Android permet de gérer une base de données d'étudiants (CRUD) en utilisant SQLite. Elle suit une architecture propre séparant le modèle, le service d'accès aux données et l'interface utilisateur.
 
@@ -8,9 +8,9 @@ Cette application Android permet de gérer une base de données d'étudiants (CR
 ###  Tâche 1 — Couche métier : Modèle Etudiant
 
 -  **Étape 1.1** : Création du projet `app` (Package : `ma.fst.projet`).
-- 
+  
 -  **Étape 1.2** : Création de la classe `Etudiant` dans `projet.fst.ma.app.classes`.
-- 
+  
     - Attributs : `id`, `nom`, `prenom`.
 
 ###  Tâche 2 — Accès aux données : SQLite & Service
