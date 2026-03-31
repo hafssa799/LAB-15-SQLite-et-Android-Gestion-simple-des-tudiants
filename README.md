@@ -54,7 +54,7 @@ Cette application Android permet de gérer une base de données d'étudiants (CR
 ## 🎬 Démonstration 
 
 
-https://github.com/user-attachments/assets/67469b47-684f-4845-a392-f6e597db18c9
+
 
 
 
